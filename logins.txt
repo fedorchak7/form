@@ -1,0 +1,1 @@
+a:2:{i:1;a:4:{s:5:"login";s:5:"admin";s:8:"password";s:5:"admin";s:5:"email";s:21:"fedorchak01@gmail.com";s:4:"role";s:5:"admin";}i:2;a:4:{s:5:"login";s:3:"fed";s:8:"password";s:3:"fed";s:5:"email";s:21:"fedorchak09@gmail.com";s:4:"role";s:4:"user";}}
